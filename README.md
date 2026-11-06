@@ -1,2 +1,1 @@
-# Website
-Official website of Noir Developments.
+### Coming soon
